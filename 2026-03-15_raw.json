@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-15",
+  "recommendation": {
+    "recommended_city": "제주",
+    "weather": "3월 중순 평균 15°C 내외, 바람이 있으나 비교적 온화함",
+    "events": [
+      "유채꽃 축제",
+      "제주 들불축제"
+    ],
+    "reason": "3월 중순은 제주가 봄꽃을 즐기기 좋은 시기입니다. 항공/숙박도 성수기 대비 부담이 적고, 야외 활동에 무리가 적습니다."
+  },
+  "restaurants": [
+    {
+      "name": "제주 흑돼지 명가",
+      "address": "제주 제주시 노형동 123",
+      "category": "음식점 > 한식 > 육류,고기",
+      "url": "http://place.map.kakao.com/1",
+      "lat": 33.489,
+      "lng": 126.498
+    },
+    {
+      "name": "성산 해녀의 집",
+      "address": "제주 서귀포시 성산읍 456",
+      "category": "음식점 > 한식 > 해물,생선",
+      "url": "http://place.map.kakao.com/2",
+      "lat": 33.458,
+      "lng": 126.941
+    },
+    {
+      "name": "제주 고기국수 본점",
+      "address": "제주 제주시 일도이동 789",
+      "category": "음식점 > 한식 > 국수",
+      "url": "http://place.map.kakao.com/3",
+      "lat": 33.503,
+      "lng": 126.529
+    },
+    {
+      "name": "애월 오션뷰 카페",
+      "address": "제주 제주시 애월읍 101",
+      "category": "음식점 > 카페",
+      "url": "http://place.map.kakao.com/4",
+      "lat": 33.463,
+      "lng": 126.309
+    },
+    {
+      "name": "중문 갈치조림 맛집",
+      "address": "제주 서귀포시 색달동 202",
+      "category": "음식점 > 한식 > 해물,생선",
+      "url": "http://place.map.kakao.com/5",
+      "lat": 33.246,
+      "lng": 126.412
+    }
+  ],
+  "errors": []
+}
